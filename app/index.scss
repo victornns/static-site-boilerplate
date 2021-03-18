@@ -1,0 +1,11 @@
+// base settings
+@import
+    'scss/base/fonts',
+    'scss/base/mixins',
+    'scss/base/variables',
+    'scss/base/reset',
+    'scss/base/base';
+
+// custom styles
+@import
+    'scss/custom';
